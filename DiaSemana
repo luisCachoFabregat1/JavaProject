@@ -22,7 +22,7 @@ public class DiaSemanaSwitch {
 			
 			break;
 			
-			case "sabado","domingo":
+			case "sabado","lunes":
 				
 			System.out.println(diasemana+ " es un dia de fin de semana");	
 			
